@@ -1,0 +1,37 @@
+body {
+	font-family: sans-serif;
+}
+
+img {
+	display: inline-block;
+	padding: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+div {
+	margin-top: 50px;
+}
+
+h4 {
+	margin-top: 50px;
+}
+
+h2 {
+	margin-top: 125px;
+}
+
+#rock {
+	background-color: #0000ff;
+	border-radius: 100%;
+}
+
+#paper {
+	background-color: #00cc00;
+	border-radius: 100%;
+}
+
+#scissors {
+	background-color: #cc0000;
+	border-radius: 100%;
+}
